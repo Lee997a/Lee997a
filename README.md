@@ -34,7 +34,7 @@
 </p>
 
 <!-- 언어 카드 -->
-![Top Langs](https://github-readme-state.vercel.app/api/top-langs/?username=Lee997a&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee997a&layout=compact&theme=algolia)
 
 
 <!--
