@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat-square&logo=javascript&logoColor=White"/>
 </p>
 
-<-- EX -->
+<!-- EX -->
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=White"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=White"/>
