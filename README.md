@@ -5,60 +5,67 @@
 
 <!--badge -->
 <p align='center'>
-   <!-- gmail -->
-  <img src="https://img.shields.io/badge/ehddn5476@gmail.com-EA4335?style=flat-squre&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ehddn5476@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </p>
 
-<!-- 기술스택 -->
+---
+
 ## 💻 Tech Stacks
-<!-- backend -->
-  <h2 align='center'>Back Tech Stack</h2>
+
+### 🔧 Backend
 <p align='center'>
-  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33f?style=flat-square&logo=Springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-<!-- 데이터베이스 -->
-  <h2 align='center'>DataBasse Tech Stack</h2>
+### 🗄️ Database
 <p align='center'>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<!-- frontend -->
-<h2 align='center'>Front Tech Stack</h2>
+### 🎨 Frontend
 <p align='center'>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat-square&logo=javascript&logoColor=White"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<!-- EX -->
+### 🛠️ Tools & Others
 <p align='center'>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=White"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=White"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=White"/>
-  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
-<!-- 언어 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee997a&layout=compact&theme=algolia)
+---
 
-<!-- 깃 상태 카드 -->
-[![Lee997a's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee997a&show_icons=true&theme=tokyonight)](https://github.com/Lee997a/github-readme-stats)
+## 📊 GitHub Stats
 
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee997a&layout=compact&theme=algolia&hide_border=true"/>
+</p>
 
-<!--
-**Lee997a/Lee997a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee997a&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lee997a&theme=tokyonight&hide_border=true"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+<p align='center'>
+  👋 안녕하세요! 백엔드 개발을 공부하는 <strong>이동우</strong>입니다<br/>
+  🌱 현재 <strong>Spring Boot</strong>와 <strong>Java</strong>를 중점적으로 학습하고 있습니다<br/>
+  💡 새로운 기술을 배우고 적용하는 것을 좋아합니다<br/>
+  📫 언제든지 연락 주세요!
+</p>
+
+---
+
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&height=100&section=footer"/>
+</p>
