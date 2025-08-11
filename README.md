@@ -36,6 +36,9 @@
 <!-- 언어 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee997a&layout=compact&theme=algolia)
 
+<!-- 깃 상태 카드 -->
+[![Lee997a's GitHub stats](https://github-readme-stats.vercel.app/api?usernema=Lee997a&show_icons=true&theme=tokyonight)](https://github.com/Lee997a/github-readme-stats)
+
 
 <!--
 **Lee997a/Lee997a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
