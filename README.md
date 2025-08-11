@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/ehddn5476@gmail.com-EA4335?style=flat-squre&logo=gmail&logoColor=white"/>
+</p>
+
 <!--
 **Lee997a/Lee997a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
