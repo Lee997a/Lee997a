@@ -10,7 +10,28 @@
 </p>
 
 <!-- 기술스택 -->
+## 💻 Tech Stacks
+<!-- backend -->
+<p>
+  <img src="https://img.shields.io/badge/Java-b-07219?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33f?style=flat-square&logo=Springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
+<!-- frontend -->
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat-square&logo=javascript&logoColor=White"/>
+</p>
+
+<-- EX -->
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=White"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=White"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=White"/>
+  
+</p>
 
 
 <!--
